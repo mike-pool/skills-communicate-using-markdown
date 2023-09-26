@@ -6,3 +6,7 @@
 ###### H6 header test
 
 ![Yaktocat Image](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
