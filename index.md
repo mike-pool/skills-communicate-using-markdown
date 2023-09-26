@@ -10,3 +10,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] headers
+- [x] image
+- [x] code
+- [ ] lists
